@@ -1,0 +1,11 @@
+"/Lotus/Types/Gameplay/Eidolon/Encounters/DynamicAssassinate": "Assassinate",
+"/Lotus/Types/Gameplay/Eidolon/Encounters/DynamicHijack": "Drone",
+"/Lotus/Types/Gameplay/Eidolon/Encounters/DynamicRescue": "Rescue",
+"/Lotus/Types/Gameplay/Eidolon/Encounters/DynamicExterminate": "Exterminate",
+"/Lotus/Types/Gameplay/Eidolon/Encounters/CaveEncounters/DynamicCaveExterminate": "Cave Exterminate",
+"/Lotus/Types/Gameplay/Eidolon/Encounters/HiddenResourceCaches": "Cache",
+"/Lotus/Types/Gameplay/Eidolon/Encounters/DynamicCapture": "Capture",
+"/Lotus/Types/Gameplay/Eidolon/Encounters/DynamicDefend": "Liberate the Camp",
+"/Lotus/Types/Gameplay/Eidolon/Encounters/DynamicResourceTheft": "Armored Vault",
+"/Lotus/Types/Gameplay/Eidolon/Encounters/CaveEncounters/HiddenResourceCachesCave": "Cave Cache",
+"/Lotus/Types/Gameplay/Eidolon/Encounters/DynamicSabotage": "Sabotage"
